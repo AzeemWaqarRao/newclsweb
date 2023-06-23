@@ -1,0 +1,93 @@
+.head{
+	color: #27146c;
+
+}
+body{
+	background:linear-gradient(rgba(255,255,255,.5), rgba(255,255,255,.5)), url('images/b1.jpg');
+}
+.container{
+	border : 2px solid #27146c;
+}
+
+body{
+	margin: 30px 0px 60px 0;
+	color: #5c5b5b;
+}
+
+.head{
+	border-bottom: 2px solid #27146c;
+	
+}
+
+.main_form{
+	padding: 20px 10px;
+}
+
+textarea{
+	width: 80%;
+	margin: 0 auto;
+
+}
+
+.submit_btn{
+	background-color: #27146c;
+	float: right;
+	color: white;
+}
+
+label ,li,p{
+	color: #27146c;
+
+}
+
+.sub_label{
+	color: #5c5b5b;
+	font-size: 16px;
+}
+
+
+label ,li{
+	font-size: 20px;
+}
+
+.portion_heading{
+	
+	width: 30%;
+	border-bottom: 1px solid #5c5b5b;
+	padding-bottom: 10px;
+}
+
+.gender{
+	border: 2px solid #27146c;
+	background-color: #27146c;
+
+}
+
+.interest{
+	font-size: 18px;
+}
+
+section .register{
+	background-color: #27146c;
+	float: right;
+	color: white;
+}
+
+.button2 {
+    background-color: white; 
+    color: #27146c; 
+    border: 2px solid #27146c
+}
+
+.card{
+	border: 2px solid #27146c;
+	border-radius: 8px;
+}
+
+label{
+	font-size: 20px;
+}
+
+h3{
+	font-weight: bold;
+}

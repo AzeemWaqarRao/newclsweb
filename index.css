@@ -1,0 +1,85 @@
+body{
+	
+	color: white;
+	background-image: linear-gradient(to bottom, rgba(100, 101, 140, 0.4), rgba(12, 14, 99, 0.3)),url('images/ablock.jpg');
+	background-size: 100%, 100%, auto, cover;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	
+}
+
+.main {
+	margin-top: 50px;
+	margin-bottom: 20px;
+  overflow: hidden;
+  position: relative;
+
+  height: 600px;
+}
+
+
+.join_us{
+	margin-top: 100px;
+	margin-bottom: 100px;
+}
+
+
+
+.first_section {
+  position: relative;
+
+  background-color: rgba(140, 123, 142,0.65);
+
+  color: white;
+  border-radius: 10px;
+
+ /* border: 2px solid rgb(155, 135, 164)
+*/
+
+}
+
+.title_name{
+
+
+	border-color: white;
+	border-top :2px;
+	border-bottom :2px;
+	border-style: double;
+}
+
+.logo_section{
+	
+	
+	border-radius: 10px;
+	background-image: radial-gradient(rgba(237, 232, 237,0.4), rgba(0, 0, 0,0));
+
+	/*background-color:  rgba(237, 232, 237,0.2);*/
+}
+
+
+.about_us{
+
+	padding: 60px;
+  /*background-image: linear-gradient(#bfb0cd, rgba(40,20,110,1));*/
+  background-image: radial-gradient(rgba(140, 110, 160,0.9), rgba(12, 18, 82,0.9));
+
+}
+
+.event_section{
+	margin-top: 30px;
+	padding: 30px;
+	border:1px solid white; 
+}
+
+
+
+.join_section{
+	background-image: radial-gradient(rgba(255,255,255,0.2), rgba(255,255,255,0.2));
+	padding: 10px;
+	border-radius: 10px;
+}
+
+
+html{
+	scroll-behavior: smooth;
+}

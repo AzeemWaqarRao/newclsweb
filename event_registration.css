@@ -1,0 +1,43 @@
+body{
+	background:linear-gradient(rgba(255,255,255,.5), rgba(255,255,255,.5)), url('images/b1.jpg');
+}
+
+input.box{
+	margin-left: : 10px;
+}
+
+.formdiv{
+	width: 40%;
+	margin:auto;
+	border: solid;
+	padding: 10px;
+}
+
+#box1{
+	display: inline-block;
+	width: 47%;
+	float: left;
+}
+
+#box2{
+	display: inline-block;
+	width: 47%;
+	float: right;
+}
+
+#Submit{
+	float:right;
+}
+
+section a{
+	background-color: 
+}
+
+
+.card{
+	border: 10px solid black;
+}
+
+label{
+	font-size: 16px;
+}
